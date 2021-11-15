@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://noodlehj.github.io/csb-r1hcb/static/css/main.d3677615.chunk.css",
+    "main.js": "https://noodlehj.github.io/csb-r1hcb/static/js/main.72cf0934.chunk.js",
+    "main.js.map": "https://noodlehj.github.io/csb-r1hcb/static/js/main.72cf0934.chunk.js.map",
+    "runtime-main.js": "https://noodlehj.github.io/csb-r1hcb/static/js/runtime-main.0ab454f9.js",
+    "runtime-main.js.map": "https://noodlehj.github.io/csb-r1hcb/static/js/runtime-main.0ab454f9.js.map",
+    "static/js/2.81c0cb1d.chunk.js": "https://noodlehj.github.io/csb-r1hcb/static/js/2.81c0cb1d.chunk.js",
+    "static/js/2.81c0cb1d.chunk.js.map": "https://noodlehj.github.io/csb-r1hcb/static/js/2.81c0cb1d.chunk.js.map",
+    "index.html": "https://noodlehj.github.io/csb-r1hcb/index.html",
+    "static/css/main.d3677615.chunk.css.map": "https://noodlehj.github.io/csb-r1hcb/static/css/main.d3677615.chunk.css.map",
+    "static/js/2.81c0cb1d.chunk.js.LICENSE.txt": "https://noodlehj.github.io/csb-r1hcb/static/js/2.81c0cb1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab454f9.js",
+    "static/js/2.81c0cb1d.chunk.js",
+    "static/css/main.d3677615.chunk.css",
+    "static/js/main.72cf0934.chunk.js"
+  ]
+}
